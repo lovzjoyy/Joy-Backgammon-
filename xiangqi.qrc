@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>xiangqi/hei_che.png</file>
+        <file>xiangqi/hei_jiang.png</file>
+        <file>xiangqi/hei_ma.png</file>
+        <file>xiangqi/hei_pao.png</file>
+        <file>xiangqi/hei_si.png</file>
+        <file>xiangqi/hei_xiang.png</file>
+        <file>xiangqi/hei_zu.png</file>
+        <file>xiangqi/hong_che.png</file>
+        <file>xiangqi/hong_si.png</file>
+        <file>xiangqi/hong_xiang.png</file>
+        <file>xiangqi/hong_zu.png</file>
+        <file>xiangqi/qipan.png</file>
+    </qresource>
+</RCC>
